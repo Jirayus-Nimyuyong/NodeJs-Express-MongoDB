@@ -1,0 +1,13 @@
+{
+    "app": {
+        "host": "HOST",
+        "port": "PORT"
+    },
+    "author": {
+        "dev": "AUTHOR"
+    },
+    "mongodb": {
+        "host": "MONGODB_HOST",
+        "DB": "MONGODB_DB"
+    }
+}
